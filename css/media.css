@@ -1,0 +1,333 @@
+@media (max-width: 1070px) {
+  .post-box {
+    width: 340px;
+    width: 480px;
+  }
+  .about-text p {
+    width: 450px;
+  }
+}
+
+@media (max-width: 1080px) {
+  .work-text p {
+    width: 470px;
+    line-height: 27px;
+  }
+  .work-box img {
+    max-width: 280px;
+  }
+}
+
+@media (max-width: 1040px) {
+  .about-text h1 {
+    font-size: 40px;
+    width: 400px;
+  }
+  .post-box {
+    width: 320px;
+  }
+  .about img {
+    max-width: 250px;
+  }
+}
+
+@media (max-width: 980px) {
+  .post-box {
+    width: 300px;
+    height: 210px;
+  }
+  .post-box h1 {
+    font-size: 23px;
+  }
+  .post-box p {
+    font-size: 15px;
+  }
+  #about {
+    padding: 100px 0;
+  }
+}
+
+@media (max-width: 945px) {
+  .about-text p {
+    font-size: 15px;
+    width: 406px;
+    margin: 12px 0 23px 0;
+  }
+  .about-text h1 {
+    font-size: 37px;
+    width: 370px;
+  }
+  .about img {
+    max-width: 235px;
+  }
+  .header a {
+    font-size: 17px;
+  }
+  .work-text p {
+    font-size: 14.5px;
+    width: 425px;
+    line-height: 27px;
+  }
+  .work-year {
+    padding: 12px 0;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+  .work-box img {
+    max-width: 250px;
+  }
+  .work-text h1 {
+    font-size: 25px;
+  }
+  .work-year h4 {
+    font-size: 18px;
+  }
+  .work-year span {
+    font-size: 15px;
+  }
+  #footer {
+    padding: 100px 0 30px 0;
+  }
+}
+
+@media (max-width: 920px) {
+  .post-box {
+    width: 280px;
+  }
+}
+
+@media (max-width: 890px) {
+  .work-text p {
+    font-size: 14px;
+    width: 380px;
+  }
+  .work-box img {
+    max-width: 240px;
+  }
+
+  .about-text p {
+    width: 360px;
+    margin: 4px 0 17px 0;
+  }
+  .container {
+    width: 80%;
+  }
+}
+
+@media (max-width: 890px) {
+  .post-box {
+    padding: 13px;
+    height: 195px;
+  }
+  .post-box p {
+    font-size: 14px;
+  }
+  .post-box h1 {
+    font-size: 21px;
+  }
+  #about {
+    padding: 75px 0;
+  }
+  #footer {
+    padding: 75px 0 30px 0;
+  }
+}
+
+@media (max-width: 790px) {
+  .about-text h1 {
+    font-size: 34px;
+    width: 340px;
+  }
+  .about-text p {
+    font-size: 14px;
+  }
+  .about-text p {
+    width: 336px;
+    margin: 4px 0 15px 0;
+  }
+  .about-text button {
+    font-size: 16px;
+  }
+  .about img {
+    max-width: 220px;
+  }
+  .work-text p {
+    font-size: 13px;
+    width: 340px;
+    line-height: 25px;
+  }
+  .work-box img {
+    max-width: 230px;
+  }
+  .post-box h1 {
+    width: 260px;
+    font-size: 20px;
+  }
+  .post-box h4 span {
+    margin: 0px 10px;
+    font-size: 16px;
+  }
+  .post-box h4 {
+    margin: 8px 0;
+    font-size: 15px;
+  }
+  .post-box p {
+    font-size: 13px;
+  }
+  .post-box {
+    width: 263px;
+  }
+}
+
+@media (max-width: 730px) {
+  .about-text h1 {
+    font-size: 30px;
+    width: 300px;
+  }
+  .about-text p {
+    width: 302px;
+    line-height: 25px;
+  }
+  .about-text button {
+    font-size: 14px;
+  }
+  .about img {
+    max-width: 200px;
+  }
+  .header a {
+    font-size: 15px;
+  }
+  .post-box {
+    width: 247px;
+  }
+  .post-top p {
+    font-size: 15px;
+  }
+  .post-top a {
+    font-size: 14px;
+  }
+  .work-text p {
+    width: 305px;
+    line-height: 22px;
+  }
+  .work-box img {
+    max-width: 218px;
+  }
+  .work-text h1 {
+    font-size: 22px;
+  }
+  .work-year {
+    padding: 8px 0;
+    gap: 22px;
+  }
+  .work-year h4 {
+    font-size: 16px;
+  }
+  .footer-icons img {
+    max-width: 27px;
+  }
+  #footer {
+    padding: 60px 0 30px 0;
+  }
+  #about {
+    padding: 55px 0;
+  }
+}
+
+@media (max-width: 730px) {
+  .about-text p {
+    font-size: 13px;
+  }
+  .about-text p {
+    width: 305px;
+    line-height: 23px;
+  }
+  .about-text button {
+    padding: 4px 8px;
+    font-size: 13px;
+  }
+  .about-text h1 {
+    font-size: 27px;
+    width: 268px;
+  }
+  .about img {
+    max-width: 180px;
+  }
+  .header a {
+    font-size: 13px;
+  }
+  .post-box h1 {
+    width: 225px;
+    font-size: 17px;
+  }
+  .post-box h4 {
+    margin: 8px 0;
+    font-size: 13px;
+  }
+  .post-box h4 span {
+    margin: 0px 7px;
+  }
+  .post-box p {
+    font-size: 12px;
+  }
+  .post-box {
+    width: 239px;
+    height: 169px;
+  }
+
+  .work-text p {
+    font-size: 12px;
+    width: 284px;
+    line-height: 21px;
+  }
+}
+
+@media (max-width: 670px) {
+  .about {
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 30px;
+  }
+  .about-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .post-top a {
+    display: none;
+  }
+  .post-top {
+    justify-content: center;
+  }
+
+  .post-bottom {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .work h3 {
+    text-align: center;
+  }
+  .work-box {
+    max-width: 250px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .work-box img {
+    max-width: 245px;
+  }
+  .work-text p {
+    width: 250px;
+  }
+  .work {
+    gap: 22px;
+    align-items: center;
+  }
+  .burger-menu {
+    display: flex;
+  }
+  .header {
+    display: none;
+  }
+}
